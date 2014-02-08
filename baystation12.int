@@ -1,6 +1,9 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
+WINDOW: code\_onclick\adjacent.dm;maps\tgstation2.dmm;code\game\objects\effects\decals\contraband.dm;icons\obj\contraband.dmi;icons\obj\banner.dmi;code\_onclick\hud\screen_objects.dm;icons\obj\status_display.dmi
+DIR: code code\_onclick code\_onclick\hud code\game\objects\effects code\game\objects\effects\decals icons icons\obj 
+FILE: icons\obj\contraband.dmi
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS
